@@ -1,12 +1,36 @@
 # Leon Website Template
-This website template is designed to help you quickly and easily create a beautiful website. It includes all the essential components of a website, including a home page, an about page, a contact page, and more. <br>
 
-The template is fully responsive and looks great on any device. It also includes many customization options so that you can make your website look exactly the way you want it to. <br>
+## Description
+A modern, responsive website template built with HTML and CSS. Originally inspired by the [Leon - PSD Agency Template](https://www.graphberry.com/item/leon-psd-agency-template), this implementation provides a clean and professional design suitable for agencies and businesses.
 
-We hope you enjoy using this template to create your own website! If you have any questions or need help getting started, please don't hesitate to reach out.
-I got the psd design file on [Leon - PSD Agency Template](https://www.graphberry.com/item/leon-psd-agency-template) <br>
-used HTML and CSS to build this website template. <br>
-# You can see this website on: [Leon](https://ahmednasser111.github.io/Leon-Website-Template/)
-## Skills
-1. HTML
-2. CSS
+## Live Demo
+View the live website: [Leon Template Demo](https://ahmednasser111.github.io/Leon-Website-Template/)
+
+## Features
+- Fully responsive design
+- Modern and clean interface
+- Mobile-first approach
+- Cross-browser compatible
+- Easy to customize
+
+## Pages
+- Home
+- About
+- Services
+- Contact
+
+## Technologies Used
+- HTML5
+- CSS3
+- JS
+
+## Getting Started
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/Leon-Website-Template.git
+```
+2. Open `index.html` in your browser
+3. Customize the content and styling to match your needs
+
+## License
+This project is based on the [Leon PSD Template](https://www.graphberry.com/item/leon-psd-agency-template) and is available for personal and commercial use.
